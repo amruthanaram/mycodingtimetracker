@@ -1,8 +1,10 @@
-# Coding Time Tracker
+My Coding Time Tracker
 A web application to track coding sessions across different platforms
-##Live demo
+
+Live demo:
 https://mycodingtimetracker.onrender.com
-##Technologies used
+
+Technologies used: 
 -python
 -flask
 -sqlite
@@ -13,7 +15,8 @@ https://mycodingtimetracker.onrender.com
 
 A simple web-based application to track coding sessions.
 
-## Features
+
+Features
 
 - Start and stop coding sessions
 - Track coding time
@@ -26,18 +29,3 @@ A simple web-based application to track coding sessions.
 - View platform-wise coding statistics
 - Display coding duration in minutes and seconds
 
-## Technologies Used
-
-- Python
-- Flask
-- SQLite
-- HTML
-- CSS
-- JavaScript
-
-## How to Run
-
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
