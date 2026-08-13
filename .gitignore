@@ -1,0 +1,6 @@
+vene/
+.vene/
+--pycache--/
+*.pyc
+.env
+coding_tracker.db
